@@ -13,3 +13,6 @@ INSERT INTO my_books (id, `name`, author) VALUES (1, 'Effective Java', 'Joshua B
 INSERT INTO my_books (id, `name`, author) VALUES (2, 'Java Concurrency in Practice', 'Brian Goetz');
 INSERT INTO my_books (id, `name`, author) VALUES (3, 'Современное визуальное программирование', 'Талипов С.Н.');
 ```
+
+Используйте сложный пароль для root, иначе не будет работать! 
+Например такой: PassW0rd++
